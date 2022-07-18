@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage",
+      "state" : {
+        "revision" : "c4b8660bb3ef543fe4bdcaac0db956b32dc5583f",
+        "version" : "5.13.0"
+      }
+    },
+    {
+      "identity" : "user-activity-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/attrybtech/user-activity-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7ae6be44a7647b48a28cb20f6087dc2ab0feb097"
+      }
+    }
+  ],
+  "version" : 2
+}
